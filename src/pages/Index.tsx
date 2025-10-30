@@ -33,23 +33,23 @@ const Index = () => {
     {
       country: 'Canada',
       price: '3400 CAD',
-      duration: '2 weeks',
+      duration: '3 weeks',
       description: 'Explore Vancouver and Toronto with cultural immersion and university visits',
-      image: 'https://cdn.poehali.dev/projects/edcc4f82-e493-4d64-8862-8e7de2e3eff8/files/e14ba327-9b21-4c3a-8070-554790d5f82f.jpg'
+      image: 'https://cdn.poehali.dev/projects/edcc4f82-e493-4d64-8862-8e7de2e3eff8/files/4fa3d638-84a0-4e03-8387-3d99d84604db.jpg'
     },
     {
       country: 'United Kingdom',
       price: '3200 GBP',
-      duration: '3 weeks',
+      duration: '4 weeks',
       description: 'Study English in London and Oxford, including museum tours and theater visits',
-      image: 'https://cdn.poehali.dev/projects/edcc4f82-e493-4d64-8862-8e7de2e3eff8/files/40e94470-9b85-4c80-904c-bd74ac1cbf94.jpg'
+      image: 'https://cdn.poehali.dev/projects/edcc4f82-e493-4d64-8862-8e7de2e3eff8/files/cc014e24-7699-4800-81eb-bc22c58e7b26.jpg'
     },
     {
       country: 'USA',
       price: '4500 USD',
-      duration: '4 weeks',
+      duration: '5 weeks',
       description: 'East Coast academic tour: Boston, New York, Washington DC with college tours',
-      image: 'https://cdn.poehali.dev/projects/edcc4f82-e493-4d64-8862-8e7de2e3eff8/files/489de96d-c51d-444c-a798-3522926e001d.jpg'
+      image: 'https://cdn.poehali.dev/projects/edcc4f82-e493-4d64-8862-8e7de2e3eff8/files/e0ebecf7-6c52-4c42-9f1c-c5a230396f42.jpg'
     }
   ];
 
